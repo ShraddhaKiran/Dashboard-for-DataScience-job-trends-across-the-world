@@ -20,3 +20,11 @@ This repository contains an interactive Tableau dashboard that visualizes data s
 
 ## Summary
 The Interactive Data Science Salaries Worldwide Dashboard is a powerful tool designed to demystify salary trends in the data science field. By providing a comprehensive and interactive overview of salary data, this dashboard helps job seekers, employers, and industry analysts make informed decisions. Whether you are negotiating a job offer, planning your career path, or conducting market research, this dashboard offers valuable insights to guide your decisions.
+
+
+![image](https://github.com/user-attachments/assets/85994ffd-75ad-4be8-a70d-27bd3537dbeb)
+
+
+
+
+
